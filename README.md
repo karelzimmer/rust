@@ -3,6 +3,9 @@
 Mijn Rust-programma's.
 Voor (zelf)studie. Werk in uitvoering.
 
+*My Rust programs.
+For (self) study. Work in progress.*
+
 ## Werkwijze Hello, world
 
 ```console
