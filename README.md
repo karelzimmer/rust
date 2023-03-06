@@ -1,12 +1,9 @@
 # rust
 
-Mijn Rust-programma's.
-Voor (zelf)studie. Werk in uitvoering.
+My Rust programs.
+For (self) study. Work in progress.
 
-*My Rust programs.
-For (self) study. Work in progress.*
-
-## Werkwijze Hello, world
+## Methon Hello, world
 
 ```console
 cd ~/rust
@@ -40,7 +37,7 @@ Output:
 Hello, world!
 ```
 
-## Werkwijze Hello, Cargo
+## Methon Hello, Cargo
 
 ```console
 cd ~/rust
